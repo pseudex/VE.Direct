@@ -64,7 +64,7 @@ my %Text = ("V"=>{"ReadingName"=>"Main_or_channel_1_battery_voltage","Unit"=>"V"
             "H15"=>{"ReadingName"=>"Minimum_auxiliary_battery_voltage","Unit"=>"V","Scale"=>"0.001"},
             "H16"=>{"ReadingName"=>"Maximum_auxiliary_battery_voltage","Unit"=>"V","Scale"=>"0.001"},
             "H17"=>{"ReadingName"=>"Amount_of_discharged_energy","Unit"=>"kWh","Scale"=>"0.01"},
-            "H18"=>{"ReadingName"=>"Amount_of_charged_energy","Unit"=>"kWh","Scale"=>"100"},
+            "H18"=>{"ReadingName"=>"Amount_of_charged_energy","Unit"=>"kWh","Scale"=>"0.01"},
             "H19"=>{"ReadingName"=>"Yield_total_user_resettable_counter","Unit"=>"kWh","Scale"=>"0.01"},
             "H20"=>{"ReadingName"=>"Yield_today","Unit"=>"kWh","Scale"=>"0.01"},
             "H21"=>{"ReadingName"=>"Maximum_power_today","Unit"=>"W","Scale"=>"1"},
